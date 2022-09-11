@@ -1,0 +1,187 @@
+.pl1
+{
+    width: 300px;
+    height: 550px;
+    border: 0.5px solid transparent;
+    border-radius: 5px;
+    margin-left: 1%;
+    margin-top: 1%;
+    background-color: #373750;
+    text-align: center;
+}
+
+
+
+
+.bi-person-circle
+{
+
+    font-size: 100px;
+    color: white;
+    
+
+}
+
+.na1
+{
+    font-size: 30px;
+    color: white;
+}
+
+.em1
+{
+    color: white;
+    font-size: 20px;
+}
+
+
+.about b
+{
+ color: lightseagreen;
+ font-size: 30px;
+}
+
+
+
+
+
+.about
+{
+    color: white;
+}
+
+
+
+
+
+
+
+.main
+{
+    width: 850px;
+    height: 550px;
+    background-color:#373750 ;
+    position: absolute;
+    top: 10px;
+    left: 350px;
+    
+}
+
+
+.main table{
+    position: relative;
+    left: 30px;
+    top: 20px;
+    color: white;
+}
+
+.main table input
+{
+    width: 300px;
+    background-color:#242431 ;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    color: lightgreen;
+}
+
+
+table tr td
+{
+    padding: 15px;
+    
+}
+
+
+
+
+.t2
+{
+    position: relative;
+    left: 50px;
+}
+
+.btn button
+{
+    border-radius: 5px;
+}
+
+.btn{
+    position: relative;
+    left: 580px;
+    top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,108 @@
+fieldset
+{
+
+
+    width: 96%;
+    height: 700px;
+    margin-left: 1%;
+    margin-top: 2%;
+    background-color: rgb(6, 255, 159);
+    border: 5px double black;
+}
+
+
+
+
+fieldset legend
+{
+    text-align: center;
+    font-size: 30px;
+}
+
+
+.hr1 li
+{
+    padding: 10px;
+    font-size: 20px;
+    
+}
+.hr2 li{
+    list-style-type: none;
+    padding: 10px;
+}
+.hr2{
+    position: relative;
+    left: 300px;
+    top: -200px;
+}
+.hr2 textarea
+{
+    height: 80px;
+}
+.vb1
+{
+    position: relative;
+    top: -120px;
+}
+
+.vb1  li
+{
+    padding: 20px;
+}
+
+.vb2
+{
+    position: relative;
+    top: -320px;
+    left: 300px;
+}
+
+
+.vb2 li{
+      padding: 20px;
+      list-style-type: none;
+}
+
+
+
+
+
+.bb
+{
+    position: relative;
+    top: -300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

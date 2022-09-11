@@ -1,0 +1,17 @@
+#btn1,#btn2,#btn3
+{
+    width: 280px;
+    height: auto;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+#p
+{
+    width: 810px;
+    height: auto;
+    padding: 20px;
+    background-color: black;
+    color: wheat;
+}

@@ -1,0 +1,87 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+   
+}
+.com-header
+{
+    width: 100%;
+    height: auto;
+}
+.btn-col
+{
+    background-color: blue !important;
+    color: white !important;
+}
+.ecom-border
+{
+    width: 96%;
+
+}
+.navbar 
+{
+    width: 100%;
+    height: auto;
+}
+.navbar-link li
+{
+    display: inline-block;
+    padding: 0px 15px;
+}
+.navbar-link a 
+{
+    color: black;
+    text-transform: capitalize;
+}
+
+.ecom-slider 
+{
+    width: 96%;
+    margin-left: 2%;
+    height: 350px;
+    background-color: lightgray;
+    margin-top: -1.2%;
+}
+.slider-link li 
+{
+    border-bottom: solid 1px lightgray;
+    text-decoration: none;
+    list-style-type: none;
+    padding: 3px 10px;
+}
+.slider-link a 
+{
+    color: black;
+}
+
+.slider img 
+{
+    width: 100%;
+    height: 248px;
+}
+
+.ecom-content 
+{
+    width: 80%;
+    height: auto;
+    margin-left: 10%;
+}
+
+.ecom-products
+{
+    width: 100%;
+    height: auto;
+}
+.ecom-products img 
+{
+    width: 100%;
+    height: 180px;
+}
+
+.ecom-footer
+{
+    width: 100%;
+    height: auto;
+    background-color: lightgray;
+}

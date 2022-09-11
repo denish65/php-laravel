@@ -1,0 +1,384 @@
+
+
+
+
+
+
+
+form{
+    border: 1px solid black;
+    width: 30%;
+}
+
+
+
+textarea
+{
+    height: 30px;
+}
+
+
+input
+{
+    width: 80%;
+    height: 60px;
+    background-color: transparent;
+    border: none;
+    text-align: right;
+    outline: none;
+    
+    border-bottom: 1px solid black;
+}
+
+
+
+#he
+{
+    position: relative;
+    left: -50px;
+}
+
+
+
+#heq
+{
+    font-weight: 200;
+    position: absolute;
+    top: 5px;
+    right: 20px;
+    
+}
+
+
+
+.container input
+{
+    font-size: 40px;
+}
+
+
+
+.td1 button
+{
+    width: 80px;
+    height: 60px;
+    border: none;
+    background-color: transparent;
+    font-size: 20px;
+    font-weight: 100;
+
+}
+/*.td1 td 
+{
+
+
+
+}
+*/
+.td1 button:hover
+{
+    background-color: lightgray;
+    
+}
+
+
+
+table
+{
+    margin: 1%;
+    position: relative;
+    right: 25px;
+}
+
+
+.table2 td button
+{
+
+    width: 225px;
+    height: 51px;
+    background-color: white;
+    border: none;
+
+
+}
+
+.table2 td button:hover
+{
+    background-color: rgb(166, 184, 202);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.equale button
+{
+    background-color: rgb(29, 163, 212);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
